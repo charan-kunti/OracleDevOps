@@ -1,0 +1,6 @@
+INSERT INTO WEST VALUES ('BERRY')
+            *
+ERROR at line 1:
+ORA-00942: table or view does not exist
+
+
